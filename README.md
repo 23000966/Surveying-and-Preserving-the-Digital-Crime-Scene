@@ -1,4 +1,4 @@
-# Surveying and Preserving the Digital Crime Scene
+![image](https://github.com/user-attachments/assets/a3e5e897-74f9-4d34-87da-f1303f3df085)# Surveying and Preserving the Digital Crime Scene
 
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
@@ -64,7 +64,7 @@ Data recovery from unallocated space, using forensic tools(Autospy) to extract a
 ![](./images/f1.png)
 
 ### Folder after deleting the files
-![](./images/a9.png)
+![Uploading image.png…]()
 
 ### Folder after extracting the deleted images using autopsy
 ![](./images/a10.png)
