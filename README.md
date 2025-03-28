@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/a3e5e897-74f9-4d34-87da-f1303f3df085)# Surveying and Preserving the Digital Crime Scene
+# Surveying and Preserving the Digital Crime Scene
 
 ## **Aim:**
 Data recovery from unallocated space, using forensic tools(Autospy) to extract and analyze data.
